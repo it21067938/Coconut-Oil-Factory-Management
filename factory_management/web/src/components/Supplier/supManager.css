@@ -1,0 +1,108 @@
+.getCocoform{
+    padding-top: 70px;
+    width:50%;
+    margin: auto;
+    border-color: rgb(21, 47, 135);
+    border-radius: 30px;
+    border-style: double;
+   
+    background-color: rgb(244, 244, 244);
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+.midlespase{
+    width: 10%;
+}
+
+.pieChart{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:90px ;
+    border-radius: 30px;
+    border-color: rgb(21, 47, 135);
+    border-style: double;
+    height: 770px;
+    width: 1100px;
+    background-color: rgb(244, 244, 244);
+
+}
+
+
+.orangeArea{
+    width: 50px;
+    height: 30px;
+    background-color: orange;
+    
+}
+
+.greenArea{
+    width: 50px;
+    height: 30px;
+    background-color: rgb(25, 178, 43);
+    
+}
+
+
+.width{
+    width: 70%;
+    margin: auto;
+    
+}
+
+.test{
+   width:110px
+}
+
+.test2{
+    background-color: rgb(6, 188, 6);
+    color: white;
+ }
+
+.searchbar{
+width: 50%;
+
+margin: 20px;
+
+}
+
+.pdfbtn{
+    margin: 20px 0px;
+  height: 40px;
+  background-color: #0D2938;
+}
+
+.serfun{
+    width: 50%;
+}
+
+.cardalign{
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    margin-top: 100px;
+    padding-top: 50px;
+}
+
+.cardalign2{
+    margin: auto;
+    width: 500px;
+    height: 650px;
+    margin-top: 100px;
+    padding-top: 50px;
+    
+}
+
+.btnUpdate{
+    background-color: goldenrod;
+    color: white;
+}
+.btnChangPass{
+    background-color: forestgreen;
+    color: white;
+}
+.btnDelete{
+    background-color: brown;
+}

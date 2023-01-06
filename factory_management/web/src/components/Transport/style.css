@@ -1,0 +1,28 @@
+body{
+    /* background-image: url('/factory_management/web/src/images/SMdash.jpg'); */
+    /* background-color:yellow; */
+    
+}
+.button{
+    width:100px;
+    margin-top: 50px;
+    margin-left: 450px;
+    color:black;
+    background-color: aqua;
+}
+.new{
+    padding-left: 20px;
+} 
+.container{
+    margin-right:'200px';
+}
+.im{
+    background-image: url("../../assect/images/bb.webp");
+    background-size: cover;
+}
+.icc{
+    background-image: url("../../assect/images/backimg.jpg");
+    background-size: cover;
+   background-repeat: no-repeat;
+   height: 100vh;
+}

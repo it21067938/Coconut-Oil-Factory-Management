@@ -1,0 +1,75 @@
+body{
+    font-family:Montserrat;
+          
+}
+
+.formwidth{
+          padding-top: 50px;
+          width: 40%;
+          text-align: center;
+          margin: auto;
+
+
+}
+
+.btnWidth{
+          margin-top: 20px;
+          padding-top: 20px;
+          width: 100%;
+}
+
+.margins{
+          margin-top: 20px;
+          margin-bottom: 40px;
+}
+
+.textCenter{
+          text-align: center;
+}
+
+.hometext1{
+          padding-top: 40px;
+          font-size: 70px;
+          color: dimgrey;
+          font-weight: 700;
+}
+
+.hometext2{
+          
+          font-size: 200px;
+          color:#0D2938;
+          font-weight: 700;
+}
+.hometext3{
+          
+          font-size: 30px;
+          color: dimgrey;
+          font-weight: 700;
+          margin: 0;
+
+}
+
+.hometext4{
+          padding-top: 50px;
+          font-size: 70px;
+          color: #0D2938;
+          font-weight: 700;
+}
+
+.hometext5{
+          padding-top: 50px;
+          font-size: 45px;
+          color: dimgrey;
+          font-weight: 700;
+          text-align: center;
+}
+
+.padMar{
+          margin-bottom: 50px;
+}
+
+.center{
+          margin: auto 0;
+}
+
+

@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  body {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+  }
+  
+  body, html {
+    height: 100%;
+    }
+    .bg {
+    background-image: url("../Image/LoginBG.jpg");
+    height: 100%;
+    padding-top: 1%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+  
+  body, html {
+    height: 100%;
+    }
+    .DashBGS {
+    background-image: url("../Image/genrepo.jpeg");
+    height: 100vh;
+    padding-top: 1%;
+    opacity: 90;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+    .Report {
+      background-image: url("../Image/x2.jpg");
+      height: 100vh;
+      padding-top: 1%;
+      opacity: 90%;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      }
+  
+    body, html {
+      height: 100%;
+      }
+      .Kwarehouse {
+      background-image: url("../Image/Formbg.jpg");
+      height: 100%;
+      opacity: 90%;
+      background-repeat: no-repeat;
+      padding-top: 1%;
+      background-size: cover;
+      }
+
+      .Staff {
+        background-image: url("../Image/cocogen.webp");
+        height: 1000px;
+        opacity: 90%;
+        background-repeat: no-repeat;
+        padding-top: 1%;
+        background-size: cover;
+        }
+  
+      body, html {
+        height: 100%;
+        }
+        .pickup {
+        background-image: url("../Image/pickup.jpg");
+      
+        height: 1000px;
+        padding-top: 1%;
+        opacity: 90%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;     
+        }
+  
+        body, html {
+          height: 100%;
+          }
+          .Khome {
+          background-image: url("../Image/Edetails.jpg");
+          
+          height: 100vh;
+          opacity: 90%;
+          background-repeat: no-repeat;
+          background-size: cover;
+          }
+  
+          body, html {
+            height: 100%;
+            }
+            .function {
+            background-image: url("../Image/functiondash.jpg");            
+            height: 1000px;
+            opacity: 90%;
+            padding-top: 1%;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            }
+  
+            body, html {
+              height: 100%;
+              }
+              .Kkade {
+              background-image: url("../Image/Kkade.jpg");
+              
+              opacity: 90%;
+              height: 1000px;
+              padding-top: 1%;
+              background-position: center;
+              background-repeat: no-repeat;
+              background-size: cover;
+              }
+  
+  
+  
+  
+  
